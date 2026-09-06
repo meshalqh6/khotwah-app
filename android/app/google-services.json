@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561943421286",
+    "project_id": "khotwah---app",
+    "storage_bucket": "khotwah---app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561943421286:android:3f4dbd02c20b8130e868a7",
+        "android_client_info": {
+          "package_name": "com.SWEP.Khotwah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpRIxJFMLv9pSrbJnyM3E33h_EQ_FCNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
